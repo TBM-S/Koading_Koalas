@@ -1,0 +1,1 @@
+This is ceated demo txt file for git cmd trials
